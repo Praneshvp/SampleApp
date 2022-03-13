@@ -43,7 +43,7 @@ export default function TabRoutes() {
 
 
 
-        <Tab.Screen name="Profile" component={Profile}
+        <Tab.Screen name="Messages" component={Profile}
           options={({ route }) => ({
             headerStyle:{
               backgroundColor: Colors.THEME
